@@ -4,7 +4,7 @@ name: 'Speechify API'
 subtitle: 'Streaming text-to-speech API for developers'
 slug: 'speechify-api'
 description: "The Speechify API is a text-to-speech API for developers, separate from the Speechify reading app. It runs on Speechify's own SIMBA models: SIMBA 3.2 for English and SIMBA 3.0 for six languages. It supports streaming, SSML with emotion control, word-level timestamps, and voice cloning on paid plans, with Python and TypeScript SDKs. There is a free tier of 500K characters a month, and paid plans start at $10 a month."
-website: 'https://speechify.ai'
+website: 'https://speechify.ai?utm_source=github&utm_medium=listing&utm_campaign=best-of-ai'
 company: 'speechify'
 logo_url: ''
 category: 'text-to-speech'
